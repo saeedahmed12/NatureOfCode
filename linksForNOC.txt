@@ -1,0 +1,36 @@
+https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA; Introduction to p5.js by Daniel Shiffman
+https://medium.com/processing-foundation/hello-p5-js-web-editor-b90b902b74cf; the p5.js Web Editor; If new to programming, then it may be best to start here as this site has a tremendous amount of information about the p5.js webeditor.  If not, then proceed to next video.
+https://www.youtube.com/watch?v=MXs1cOlidWs&index=2&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA; Daniel's short introduction to the p5.js editor
+https://editor.p5js.org; p5.js; Create a p5.js account and start using and saving your code
+https://i.imgur.com/J0oNkPD.png; imgur photo
+https://www.youtube.com/watch?v=c3TeLi6Ns1E&index=3&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA; Shapes and Drawing, The first coding video
+https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4; color and weight;
+;;teststring
+https://editor.p5js.org/saeed19/sketches/U0VBKL7cC; Mouse X and Y; 
+https://editor.p5js.org/saeed19/sketches/yhNoYHvYn; Mouse Pressed; 
+https://editor.p5js.org/saeed19/sketches/nXfT9yFab; frame rate and pmouseX; 
+https://editor.p5js.org/saeed19/sketches/v6zZCGJls; object; 
+https://editor.p5js.org/saeed19/sketches/U0VBKL7cC; map; 
+https://editor.p5js.org/saeed19/sketches/qQYms3Zdu; random(), frameRate(), mousePressed()
+https://editor.p5js.org/saeed19/sketches/Rrvpu3peG; bouncing ball
+https://editor.p5js.org/saeed19/sketches/vCB1vvJPS; bouncing ball weird
+https://editor.p5js.org/saeed19/sketches/usG_tPvFu; conditional, light on/off
+https://editor.p5js.org/saeed19/sketches/gMCzPhpPU; chagning backgrounds, pmouseX, pmouseY)
+https://editor.p5js.org/saeed19/sketches/qVUVyI6Q-; mousePressed() v mouseIsPressed, on=!on
+https://editor.p5js.org/saeed19/sketches/4opKycviA; offset
+https://editor.p5js.org/saeed19/sketches/omNq-t38d; nested loop
+https://editor.p5js.org/saeed19/sketches/J0uAOb6BF; objects
+
+
+Shapes and Drawing
+Four Rectangles; https://editor.p5js.org/saeed19/sketches/C_PhTVqgn; https://i.imgur.com/HHOT7Cp.png
+Centering; https://editor.p5js.org/saeed19/sketches/G8accfl-_; https://i.imgur.com/uRLUNL6.png
+
+
+
+
+
+
+
+
+
